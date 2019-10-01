@@ -6,8 +6,6 @@ class Post
     @title = title
   end
 
-  def self.author=(author)
-    @author = author
-  end
+  
 
 end
