@@ -6,4 +6,8 @@ class Post
     @title = title
   end
 
+  def author=(author)
+
+  end
+
 end
